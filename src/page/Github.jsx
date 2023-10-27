@@ -1,4 +1,5 @@
 import { Box, Text, Flex, Image, useColorModeValue } from '@chakra-ui/react';
+import GitHubCalendar from 'react-github-calendar';
 
 const GitHubStats = () => {
   return (
@@ -29,6 +30,9 @@ const GitHubStats = () => {
           borderRadius="md"
           boxShadow="md"
         />
+      </Flex>
+      <Flex flexWrap="wrap" justifyContent="center" alignItems="center">
+      <GitHubCalendar width={"100%"} fill={useColorModeValue('gray.100', 'gray.900')} style={{color: useColorModeValue('gray.100', 'gray.900'), margin:"auto", padding:"20px"  }} className="cla" colorScheme={"light"}  username="imSAJJAKALI" />
       </Flex>
     </Box>
   );
