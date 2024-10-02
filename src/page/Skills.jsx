@@ -10,37 +10,32 @@ import react from '../components/images/react.png';
 import typescript from '../components/images/typescript.png';
 import mongodb from '../components/images/mongodb-original.svg';
 import nodejs from '../components/images/nodejs-original.svg';
-import python from '../components/images/python-svg-1.png';
-import flask from '../components/images/flask.png';
 import express from '../components/images/express-js.png';
 import sql from '../components/images/sql.webp';
-import langchain from '../components/images/langchain.png';
-import angular from '../components/images/angular.png';
-import vscode from '../components/images/vscode.png';
+import nextjs from '../components/images/next-js.png';
 import git from '../components/images/git.jpg';
-import netlify from '../components/images/netlify.jpg';
-import render from '../components/images/render-logo-wordmark.png';
 import openai from '../components/images/png-transparent-openai-chatgpt-logo.png';
+import react_native from '../components/images/react-native.svg'
+import postman from '../components/images/postman.png'
+import tailwind from '../components/images/tailwind.png'
 
 const skills_data = [
   { image: html, name: "HTML" },
   { image: css, name: "CSS" },
   { image: javascript, name: "JavaScript" },
-  { image: react, name: "React" },
+  { image: react, name: "ReactJS" },
   { image: typescript, name: "TypeScript" },
-  { image: angular, name: "Angular" },
+  { image: nextjs, name: "NextJS" },
+  { image: react_native, name: "React Native" },
   { image: mongodb, name: "MongoDB" },
   { image: express, name: "Express.js" },
   { image: nodejs, name: "Node.js" },
-  { image: python, name: "Python" },
-  { image: flask, name: "Flask" },
   { image: sql, name: "Sql" },
   { image: openai, name: "Opean AI" },
-  { image: langchain, name: "LangChain" },
-  { image: vscode, name: "Visual Studio Code" },
-  { image: git, name: "Git" },
-  { image: netlify, name: "Netlify" },
-  { image: render, name: "Render" },
+  { image: openai, name: "Opean AI" },
+    { image: tailwind, name: "Tailwind CSS" },
+    { image: postman, name: "Postman" },
+ 
 
 ];
 

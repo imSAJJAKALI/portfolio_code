@@ -30,14 +30,7 @@ const AboutMe = () => {
         </Text>
         <Divider my={4} />
         <Text fontSize="lg" mb={4}>
-          With over 1200+ hours of practical coding experience in HTML, CSS,
-          JavaScript, React.js, and TypeScript I am a passionate Full Stack
-          Developer dedicated to delivering exceptional digital experiences. I
-          thrive in collaborative, interdisciplinary teams, executing
-          goal-oriented projects that enhance the product experience. Agile
-          methodologies and excellent project management skills drive my
-          success. A motivated, skilled, and team-oriented developer, I am an
-          ideal candidate for any software development team seeking excellence.
+        A highly motivated Full Stack Developer with a focus on front-end development, specializing in React, JavaScript, and CSS. With 6 months of experience at Cnetric Global Inc,  worked on over 10 e-commerce projects, delivering responsive and visually appealing interfaces. Committed to continuous learning, I strive to bring efficiency and innovation to product-driven companies.
         </Text>
       </Box>
     </Container>

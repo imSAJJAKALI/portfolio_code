@@ -48,7 +48,7 @@ import {
               <Heading fontSize={{ base: "1.5xl", md: "2xl" }} >And I'm a</Heading>
               <Box alignItems={{base:"center",md:"start"}}>
 
-              <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&width=435&lines=Full+Stack+Web+Developer;MERN+%2F+MEAN+Developer;Frontend+Developer;Backend+Devloper" alt="Typing SVG" /></a>
+              <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=27&pause=1000&color=1450A3&width=457&height=62&lines=Full+Stack+Web+Developer;Front+End+Developer;ReactJS+Developer;MERN+Stack+Developer" alt="Typing SVG" /></a>
               </Box>
              
               <HStack spacing={4}>
